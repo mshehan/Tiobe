@@ -1,0 +1,23 @@
+/*
+/Matthew Shehan
+//mshehan@my.smccd.edu
+//CIS 
+//114 OL
+//cloud.css
+//assignment 7
+// 05-13-2016
+ */
+#cloud { 
+    border-radius:3px;
+    border:1px solid #d0d0d0; 
+    width:100%;
+    height:450px;
+    position:relative;
+    }
+#cloud span { cursor: pointer; }
+#details {
+    width:100%;
+    text-align:center;
+    line-height:2em;
+    margin-top:0.5em
+}
